@@ -2,6 +2,9 @@
 
 This is a B2B e-learning platform similar to Udemy and Coursera, developed with a comprehensive feature set for creators and learners. The platform allows creators to upload, manage, and analyze their courses, while learners can browse, enroll, and track their progress through their dashboard.
 
+## Demo Video Link
+https://drive.google.com/file/d/1qkQtHCuZ3VWsMDmBpcbviK3TCDLgz9WA/view?usp=sharing
+
 ## FlowCharts
 ![flowchart2 b2b](https://github.com/user-attachments/assets/37bd4949-a6f0-43e2-9f79-1c0444de2d72)
 
