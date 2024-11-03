@@ -10,6 +10,8 @@ https://drive.google.com/file/d/1qkQtHCuZ3VWsMDmBpcbviK3TCDLgz9WA/view?usp=shari
 
 ![flowchart b2b](https://github.com/user-attachments/assets/58727d61-2aa8-4b5c-8493-f3a802e93362)
 
+## Hosted Link
+https://imaginaryhubb2b.onrender.com (currenlty my AWS Services is down due to free plan Expiration,So platform may not work properly)
 
 
 ## Table of Contents
