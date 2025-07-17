@@ -2,7 +2,7 @@
 
 This is a B2B e-learning platform similar to Udemy and Coursera, developed with a comprehensive feature set for creators and learners. The platform allows creators to upload, manage, and analyze their courses, while learners can browse, enroll, and track their progress through their dashboard.
 
-(Due to Company's policies code can be shared in public)
+(Due to Company's policies code cant be shared in public)
 
 ## Demo Video Link
 https://drive.google.com/file/d/1qkQtHCuZ3VWsMDmBpcbviK3TCDLgz9WA/view?usp=sharing
